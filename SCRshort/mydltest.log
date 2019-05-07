@@ -1,0 +1,591 @@
+15:14:54  [INFO ] : 启动chrome浏览器
+15:15:12  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+15:15:15  [INFO ] : 进入账号管理
+15:15:16  [INFO ] : 点击//ul[@class='el-dropdown-menu el-popper']/li[text()='账号管理']
+15:15:17  [INFO ] : 点击添加账户
+15:15:27  [ERROR] : 点击失败
+15:15:37  [ERROR] : 输入内容失败
+15:15:48  [ERROR] : 输入内容失败
+15:15:58  [ERROR] : 输入内容失败
+15:16:11  [INFO ] : 启动chrome浏览器
+15:16:14  [ERROR] : 输入内容失败
+15:16:14  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+15:16:20  [ERROR] : 点击失败
+15:16:26  [INFO ] : 进入账号管理
+15:16:26  [ERROR] : 点击失败
+15:16:27  [INFO ] : 点击添加账户
+15:16:38  [ERROR] : 点击失败
+15:16:48  [ERROR] : 输入内容失败
+15:16:53  [ERROR] : 输入内容失败
+15:16:55  [ERROR] : 输入内容失败
+15:16:57  [ERROR] : 输入内容失败
+15:16:59  [ERROR] : 点击失败
+15:18:22  [INFO ] : 启动chrome浏览器
+15:18:25  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+15:57:42  [INFO ] : 启动chrome浏览器
+15:57:46  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+15:57:49  [INFO ] : 进入账号管理
+15:57:49  [INFO ] : 点击//ul[@class='el-dropdown-menu el-popper']/li[text()='账号管理']
+15:57:51  [INFO ] : 点击添加账户
+15:57:51  [INFO ] : 点击//span[text()='添加账户']
+15:57:54  [INFO ] : 输入test6内容
+15:57:54  [INFO ] : 输入张三内容
+15:57:54  [INFO ] : 输入研发部内容
+15:57:54  [INFO ] : 输入19900000004内容
+15:57:54  [INFO ] : 点击//input[@placeholder='请选账号角色']
+15:59:04  [INFO ] : 启动chrome浏览器
+15:59:07  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+15:59:10  [INFO ] : 进入账号管理
+15:59:10  [INFO ] : 点击//ul[@class='el-dropdown-menu el-popper']/li[text()='账号管理']
+15:59:12  [INFO ] : 点击添加账户
+15:59:12  [INFO ] : 点击//span[text()='添加账户']
+15:59:14  [INFO ] : 输入test6内容
+15:59:14  [INFO ] : 输入张三内容
+15:59:14  [INFO ] : 输入研发部内容
+15:59:15  [INFO ] : 输入19900000004内容
+15:59:15  [INFO ] : 点击//input[@placeholder='请选账号角色']
+15:59:16  [INFO ] : 点击//ul[@class='el-scrollbar__view el-select-dropdown__list']/li/span[text()='2级角色']
+15:59:16  [INFO ] : 输入Weixf123内容
+15:59:16  [INFO ] : 输入Weixf123内容
+15:59:16  [INFO ] : 点击//span[text()='提交']
+15:59:17  [INFO ] : 搜索刚添加成功的账号
+15:59:18  [INFO ] : 输入test6内容
+15:59:18  [INFO ] : 点击//span[text()='搜索']
+15:59:29  [ERROR] : 点击失败
+16:00:19  [INFO ] : 启动chrome浏览器
+16:00:23  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+16:00:55  [INFO ] : 启动chrome浏览器
+16:00:58  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+16:02:47  [INFO ] : 启动chrome浏览器
+16:02:49  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+16:02:53  [INFO ] : 进入账号管理
+16:02:53  [INFO ] : 点击//ul[@class='el-dropdown-menu el-popper']/li[text()='账号管理']
+16:02:55  [INFO ] : 点击添加账户
+16:02:55  [INFO ] : 点击//span[text()='添加账户']
+16:02:57  [INFO ] : 输入test7内容
+16:02:57  [INFO ] : 输入李四内容
+16:02:57  [INFO ] : 输入研发部内容
+16:02:58  [INFO ] : 输入19900000005内容
+16:02:58  [INFO ] : 点击//input[@placeholder='请选账号角色']
+16:02:59  [INFO ] : 点击//ul[@class='el-scrollbar__view el-select-dropdown__list']/li/span[text()='3级角色']
+16:02:59  [INFO ] : 输入Weixf123内容
+16:02:59  [INFO ] : 输入Weixf123内容
+16:02:59  [INFO ] : 点击//span[text()='提交']
+16:03:00  [INFO ] : 搜索刚添加成功的账号
+16:03:00  [ERROR] : 输入内容失败
+16:03:11  [ERROR] : 点击失败
+16:03:22  [ERROR] : 点击失败
+16:06:01  [INFO ] : 启动chrome浏览器
+16:06:04  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+16:06:07  [INFO ] : 进入账号管理
+16:06:07  [INFO ] : 点击//ul[@class='el-dropdown-menu el-popper']/li[text()='账号管理']
+16:06:09  [INFO ] : 点击添加账户
+16:06:09  [INFO ] : 点击//span[text()='添加账户']
+16:06:12  [INFO ] : 输入test8内容
+16:06:12  [INFO ] : 输入王五内容
+16:06:12  [INFO ] : 输入研发部内容
+16:06:12  [INFO ] : 输入19900000005内容
+16:06:12  [INFO ] : 点击//input[@placeholder='请选账号角色']
+16:06:13  [INFO ] : 点击//ul[@class='el-scrollbar__view el-select-dropdown__list']/li/span[text()='3级角色']
+16:06:13  [INFO ] : 输入Weixf123内容
+16:06:14  [INFO ] : 输入Weixf123内容
+16:06:14  [INFO ] : 点击//span[text()='提交']
+16:06:15  [INFO ] : 搜索刚添加成功的账号
+16:06:25  [ERROR] : 输入内容失败
+16:06:35  [ERROR] : 点击失败
+16:06:46  [ERROR] : 点击失败
+17:15:24  [INFO ] : 启动chrome浏览器
+17:15:42  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+17:15:53  [INFO ] : 进入账号管理
+17:15:54  [INFO ] : 点击//ul[@class='el-dropdown-menu el-popper']/li[text()='账号管理']
+17:15:56  [INFO ] : 点击添加账户
+17:15:57  [INFO ] : 点击//span[text()='添加账户']
+17:15:59  [INFO ] : 输入test8内容
+17:15:59  [INFO ] : 输入王五内容
+17:15:59  [INFO ] : 输入研发部内容
+17:15:59  [INFO ] : 输入19900000005内容
+17:15:59  [INFO ] : 点击//input[@placeholder='请选账号角色']
+17:16:00  [INFO ] : 点击//ul[@class='el-scrollbar__view el-select-dropdown__list']/li/span[text()='3级角色']
+17:16:01  [INFO ] : 输入Weixf123内容
+17:16:01  [INFO ] : 输入Weixf123内容
+17:16:01  [INFO ] : 点击//span[text()='提交']
+17:16:02  [INFO ] : 搜索刚添加成功的账号
+17:16:12  [ERROR] : 输入内容失败
+17:16:22  [ERROR] : 点击失败
+17:16:33  [ERROR] : 点击失败
+17:16:52  [INFO ] : 启动chrome浏览器
+17:16:56  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+17:17:43  [INFO ] : 启动chrome浏览器
+17:17:44  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+17:18:52  [INFO ] : 启动chrome浏览器
+17:18:58  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+17:19:01  [INFO ] : 进入账号管理
+17:19:02  [INFO ] : 点击//ul[@class='el-dropdown-menu el-popper']/li[text()='账号管理']
+17:19:04  [INFO ] : 点击添加账户
+17:19:04  [INFO ] : 点击//span[text()='添加账户']
+17:19:06  [INFO ] : 输入test8内容
+17:19:06  [INFO ] : 输入王五内容
+17:19:06  [INFO ] : 输入研发部内容
+17:19:06  [INFO ] : 输入19900000006内容
+17:19:07  [INFO ] : 点击//input[@placeholder='请选账号角色']
+17:19:08  [INFO ] : 点击//ul[@class='el-scrollbar__view el-select-dropdown__list']/li/span[text()='3级角色']
+17:19:08  [INFO ] : 输入Weixf123内容
+17:19:08  [INFO ] : 输入Weixf123内容
+17:19:08  [INFO ] : 点击//span[text()='提交']
+17:19:09  [INFO ] : 搜索刚添加成功的账号
+17:19:09  [INFO ] : 输入test8内容
+17:19:10  [INFO ] : 点击//span[text()='搜索']
+17:19:21  [ERROR] : 点击失败
+17:22:26  [INFO ] : 启动chrome浏览器
+17:22:32  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+17:23:50  [INFO ] : 启动chrome浏览器
+17:23:53  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+17:23:56  [INFO ] : 进入账号管理
+17:23:56  [INFO ] : 点击//ul[@class='el-dropdown-menu el-popper']/li[text()='账号管理']
+17:23:58  [INFO ] : 点击添加账户
+17:23:58  [INFO ] : 点击//span[text()='添加账户']
+17:24:01  [INFO ] : 输入test8内容
+17:24:01  [INFO ] : 输入王五内容
+17:24:01  [INFO ] : 输入研发部内容
+17:24:01  [INFO ] : 输入19900000006内容
+17:24:01  [INFO ] : 点击//input[@placeholder='请选账号角色']
+17:24:02  [INFO ] : 点击//ul[@class='el-scrollbar__view el-select-dropdown__list']/li/span[text()='3级角色']
+17:24:02  [INFO ] : 输入Weixf123内容
+17:24:03  [INFO ] : 输入Weixf123内容
+17:24:03  [INFO ] : 点击//span[text()='提交']
+17:24:04  [INFO ] : 搜索刚添加成功的账号
+17:24:14  [ERROR] : 输入内容失败
+17:24:24  [ERROR] : 点击失败
+17:24:35  [ERROR] : 点击失败
+17:30:15  [INFO ] : 启动chrome浏览器
+17:30:19  [INFO ] : 访问urlhttp://c.fwlbs.com/electric/#/distribution/overview
+17:30:22  [INFO ] : 进入账号管理
+17:30:22  [INFO ] : 点击//ul[@class='el-dropdown-menu el-popper']/li[text()='账号管理']
+17:30:24  [INFO ] : 点击添加账户
+17:30:24  [INFO ] : 点击//span[text()='添加账户']
+17:30:26  [INFO ] : 输入test8内容
+17:30:26  [INFO ] : 输入王五内容
+17:30:27  [INFO ] : 输入研发部内容
+17:30:27  [INFO ] : 输入19900000006内容
+17:30:27  [INFO ] : 点击//input[@placeholder='请选账号角色']
+17:30:28  [INFO ] : 点击//ul[@class='el-scrollbar__view el-select-dropdown__list']/li/span[text()='3级角色']
+17:30:28  [INFO ] : 输入Weixf123内容
+17:30:29  [INFO ] : 输入Weixf123内容
+17:30:29  [INFO ] : 点击//span[text()='提交']
+17:30:30  [INFO ] : 搜索刚添加成功的账号
+17:30:30  [INFO ] : 输入test8内容
+17:30:30  [INFO ] : 点击//span[text()='搜索']
+17:30:31  [INFO ] : 点击//tbody/tr[1]/td[9]/div/div/descendant::span[text()='编辑']
+09:42:19  [ERROR] : post方法发送成功，请检查
+09:43:50  [INFO ] : post方法发送成功，请检查
+09:45:02  [INFO ] : post方法发送成功，请检查
+09:52:02  [INFO ] : post方法发送成功，请检查
+09:52:55  [INFO ] : post方法发送成功，请检查
+09:58:32  [INFO ] : post方法发送成功，请检查
+10:09:19  [INFO ] : post方法发送成功，请检查
+10:13:36  [INFO ] : 测试通过！
+10:13:36  [INFO ] : post方法发送成功，请检查
+10:15:26  [INFO ] : 测试通过！
+10:15:26  [INFO ] : 测试通过！
+10:15:27  [INFO ] : post方法发送成功，请检查
+11:06:00  [ERROR] : 解析失败，请检查jsonPath表达式
+11:06:00  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['token_type']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['token_type']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:110) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlinterKw.main(MydlinterKw.java:18) [bin/:?]
+11:06:00  [ERROR] : 保存参数失败
+11:06:00  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['access_token']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['access_token']
+	at com.fwlbs.mydlinter.KeywordOfInter.saveParam(KeywordOfInter.java:87) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlinterKw.main(MydlinterKw.java:19) [bin/:?]
+11:06:57  [ERROR] : 解析失败，请检查jsonPath表达式
+11:06:57  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['token_type']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['token_type']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:110) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlinterKw.main(MydlinterKw.java:18) [bin/:?]
+11:06:57  [ERROR] : 保存参数失败
+11:06:57  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['access_token']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['access_token']
+	at com.fwlbs.mydlinter.KeywordOfInter.saveParam(KeywordOfInter.java:87) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlinterKw.main(MydlinterKw.java:19) [bin/:?]
+11:10:11  [ERROR] : 解析失败，请检查jsonPath表达式
+11:10:11  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['token_type']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['token_type']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:110) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlinterKw.main(MydlinterKw.java:18) [bin/:?]
+11:10:11  [ERROR] : 保存参数失败
+11:10:11  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['access_token']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['access_token']
+	at com.fwlbs.mydlinter.KeywordOfInter.saveParam(KeywordOfInter.java:87) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlinterKw.main(MydlinterKw.java:19) [bin/:?]
+11:11:30  [ERROR] : 解析失败，请检查jsonPath表达式
+11:11:30  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['token_type']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['token_type']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:110) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlinterKw.main(MydlinterKw.java:18) [bin/:?]
+11:11:30  [ERROR] : 保存参数失败
+11:11:30  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['access_token']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['access_token']
+	at com.fwlbs.mydlinter.KeywordOfInter.saveParam(KeywordOfInter.java:87) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlinterKw.main(MydlinterKw.java:19) [bin/:?]
+11:11:56  [INFO ] : 测试通过！
+11:12:20  [INFO ] : 测试通过！
+11:12:48  [INFO ] : 测试通过！
+11:16:51  [INFO ] : 测试通过！
+11:18:09  [INFO ] : 测试通过！
+11:18:47  [INFO ] : 测试通过！
+11:26:30  [INFO ] : 测试通过！
+11:27:38  [INFO ] : 测试通过！
+11:28:35  [INFO ] : 测试通过！
+11:30:16  [INFO ] : 测试通过！
+11:30:42  [INFO ] : 测试通过！
+11:32:33  [INFO ] : 测试通过！
+11:32:33  [INFO ] : 测试通过！
+11:32:33  [INFO ] : post方法发送成功，请检查
+11:49:31  [INFO ] : 测试通过！
+11:49:31  [INFO ] : 测试通过！
+11:50:55  [INFO ] : 测试通过！
+11:50:56  [INFO ] : 测试通过！
+13:39:19  [ERROR] : 头域参数格式错误，请检查
+13:39:19  [ERROR] : org.json.JSONException: Expected a ':' after a key at character 16
+org.json.JSONException: Expected a ':' after a key at character 16
+	at com.fwlbs.mydlinter.KeywordOfInter.addHeader(KeywordOfInter.java:125) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlParamTest.main(MydlParamTest.java:11) [bin/:?]
+13:39:51  [ERROR] : 头域参数格式错误，请检查
+13:39:51  [ERROR] : org.json.JSONException: Expected a ':' after a key at character 16
+org.json.JSONException: Expected a ':' after a key at character 16
+	at com.fwlbs.mydlinter.KeywordOfInter.addHeader(KeywordOfInter.java:125) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlParamTest.main(MydlParamTest.java:11) [bin/:?]
+13:40:37  [ERROR] : 头域参数格式错误，请检查
+13:40:37  [ERROR] : org.json.JSONException: Expected a ':' after a key at character 16
+org.json.JSONException: Expected a ':' after a key at character 16
+	at com.fwlbs.mydlinter.KeywordOfInter.addHeader(KeywordOfInter.java:125) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlParamTest.main(MydlParamTest.java:11) [bin/:?]
+16:07:57  [INFO ] : 测试通过！
+16:07:58  [INFO ] : 测试通过！
+16:11:44  [INFO ] : 测试通过！
+16:11:44  [INFO ] : 测试通过！
+16:12:21  [INFO ] : 测试通过！
+16:12:21  [INFO ] : 测试通过！
+16:12:59  [INFO ] : 测试通过！
+16:12:59  [INFO ] : 测试通过！
+16:26:13  [INFO ] : 测试通过！
+16:26:14  [ERROR] : 头域参数格式错误，请检查
+16:26:14  [ERROR] : org.json.JSONException: Expected a ':' after a key at character 44
+org.json.JSONException: Expected a ':' after a key at character 44
+	at com.fwlbs.mydlinter.KeywordOfInter.addHeader(KeywordOfInter.java:102) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlinterKw.main(MydlinterKw.java:27) [bin/:?]
+16:26:14  [ERROR] : 解析失败，请检查jsonPath表达式
+16:26:14  [ERROR] : com.jayway.jsonpath.PathNotFoundException: Missing property in path $['data']
+com.jayway.jsonpath.PathNotFoundException: Missing property in path $['data']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlinterKw.main(MydlinterKw.java:30) [bin/:?]
+16:27:12  [INFO ] : 测试通过！
+16:27:12  [ERROR] : 头域参数格式错误，请检查
+16:27:12  [ERROR] : org.json.JSONException: Expected a ':' after a key at character 46
+org.json.JSONException: Expected a ':' after a key at character 46
+	at com.fwlbs.mydlinter.KeywordOfInter.addHeader(KeywordOfInter.java:102) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlinterKw.main(MydlinterKw.java:27) [bin/:?]
+16:27:12  [ERROR] : 解析失败，请检查jsonPath表达式
+16:27:12  [ERROR] : com.jayway.jsonpath.PathNotFoundException: Missing property in path $['data']
+com.jayway.jsonpath.PathNotFoundException: Missing property in path $['data']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.MydlinterKw.main(MydlinterKw.java:30) [bin/:?]
+16:28:02  [INFO ] : 测试通过！
+16:28:02  [INFO ] : 测试通过！
+16:43:10  [INFO ] : 测试通过！
+16:43:10  [INFO ] : 测试通过！
+16:43:10  [INFO ] : 测试通过！
+16:43:10  [ERROR] : 解析失败，请检查jsonPath表达式
+16:43:10  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['status']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['status']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:48) [bin/:?]
+16:43:10  [ERROR] : 保存参数失败
+16:43:10  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['token']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['token']
+	at com.fwlbs.mydlinter.KeywordOfInter.saveParam(KeywordOfInter.java:124) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:37) [bin/:?]
+16:43:10  [INFO ] : 测试失败！
+16:43:10  [ERROR] : 保存参数失败
+16:43:10  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['userid']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['userid']
+	at com.fwlbs.mydlinter.KeywordOfInter.saveParam(KeywordOfInter.java:124) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:37) [bin/:?]
+16:43:10  [INFO ] : 测试失败！
+16:43:10  [INFO ] : 测试失败！
+16:47:21  [INFO ] : 测试通过！
+16:47:21  [INFO ] : 测试通过！
+16:47:21  [INFO ] : 测试通过！
+16:47:21  [ERROR] : 解析失败，请检查jsonPath表达式
+16:47:21  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['status']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['status']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:48) [bin/:?]
+16:47:21  [ERROR] : 保存参数失败
+16:47:21  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['token']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['token']
+	at com.fwlbs.mydlinter.KeywordOfInter.saveParam(KeywordOfInter.java:124) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:37) [bin/:?]
+16:47:21  [INFO ] : 测试失败！
+16:47:21  [ERROR] : 保存参数失败
+16:47:21  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['userid']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['userid']
+	at com.fwlbs.mydlinter.KeywordOfInter.saveParam(KeywordOfInter.java:124) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:37) [bin/:?]
+16:47:21  [INFO ] : 测试失败！
+16:47:21  [INFO ] : 测试失败！
+16:48:50  [INFO ] : 测试通过！
+16:48:50  [INFO ] : 测试通过！
+16:48:50  [INFO ] : 测试通过！
+16:48:50  [ERROR] : 解析失败，请检查jsonPath表达式
+16:48:50  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['status']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['status']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:49) [bin/:?]
+16:48:50  [ERROR] : 保存参数失败
+16:48:50  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['token']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['token']
+	at com.fwlbs.mydlinter.KeywordOfInter.saveParam(KeywordOfInter.java:124) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:38) [bin/:?]
+16:48:50  [INFO ] : 测试失败！
+16:48:50  [ERROR] : 保存参数失败
+16:48:50  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['userid']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['userid']
+	at com.fwlbs.mydlinter.KeywordOfInter.saveParam(KeywordOfInter.java:124) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:38) [bin/:?]
+16:48:50  [INFO ] : 测试失败！
+16:48:50  [INFO ] : 测试失败！
+16:51:48  [INFO ] : 测试通过！
+16:51:48  [INFO ] : 测试通过！
+16:51:48  [INFO ] : 测试通过！
+16:51:48  [ERROR] : 解析失败，请检查jsonPath表达式
+16:51:48  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['status']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['status']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:49) [bin/:?]
+16:51:48  [ERROR] : 保存参数失败
+16:51:48  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['token']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['token']
+	at com.fwlbs.mydlinter.KeywordOfInter.saveParam(KeywordOfInter.java:124) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:38) [bin/:?]
+16:51:48  [INFO ] : 测试失败！
+16:51:48  [ERROR] : 保存参数失败
+16:51:48  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['userid']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['userid']
+	at com.fwlbs.mydlinter.KeywordOfInter.saveParam(KeywordOfInter.java:124) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:38) [bin/:?]
+16:51:48  [INFO ] : 测试失败！
+16:51:48  [INFO ] : 测试失败！
+16:52:28  [INFO ] : 测试通过！
+16:52:29  [INFO ] : 测试通过！
+16:52:29  [INFO ] : 测试通过！
+16:52:29  [ERROR] : 解析失败，请检查jsonPath表达式
+16:52:29  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['status']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['status']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:49) [bin/:?]
+16:52:29  [ERROR] : 保存参数失败
+16:52:29  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['token']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['token']
+	at com.fwlbs.mydlinter.KeywordOfInter.saveParam(KeywordOfInter.java:124) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:38) [bin/:?]
+16:52:29  [INFO ] : 测试失败！
+16:52:29  [ERROR] : 保存参数失败
+16:52:29  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['userid']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['userid']
+	at com.fwlbs.mydlinter.KeywordOfInter.saveParam(KeywordOfInter.java:124) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:38) [bin/:?]
+16:52:29  [INFO ] : 测试失败！
+16:52:29  [INFO ] : 测试失败！
+16:54:00  [INFO ] : 测试通过！
+16:54:01  [INFO ] : 测试通过！
+16:54:01  [ERROR] : 解析失败，请检查jsonPath表达式
+16:54:01  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:49) [bin/:?]
+16:54:57  [INFO ] : 测试通过！
+16:54:57  [INFO ] : 测试通过！
+16:54:57  [INFO ] : 测试通过！
+16:55:58  [INFO ] : 测试通过！
+16:55:59  [INFO ] : 测试通过！
+16:55:59  [INFO ] : 测试通过！
+16:56:57  [INFO ] : 测试通过！
+16:56:57  [INFO ] : 测试通过！
+16:56:57  [INFO ] : 测试通过！
+16:57:40  [INFO ] : 测试通过！
+16:57:40  [INFO ] : 测试通过！
+16:57:41  [ERROR] : 解析失败，请检查jsonPath表达式
+16:57:41  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:49) [bin/:?]
+16:58:30  [INFO ] : 测试通过！
+16:58:30  [INFO ] : 测试通过！
+16:58:30  [INFO ] : 测试通过！
+17:00:00  [INFO ] : 测试通过！
+17:00:00  [INFO ] : 测试通过！
+17:00:00  [INFO ] : 测试通过！
+17:01:25  [INFO ] : 测试通过！
+17:01:25  [INFO ] : 测试通过！
+17:01:25  [ERROR] : 解析失败，请检查jsonPath表达式
+17:01:25  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:49) [bin/:?]
+17:01:55  [INFO ] : 测试通过！
+17:01:55  [INFO ] : 测试通过！
+17:01:55  [INFO ] : 测试通过！
+17:02:09  [INFO ] : 测试通过！
+17:02:09  [INFO ] : 测试通过！
+17:02:09  [INFO ] : 测试通过！
+17:35:34  [INFO ] : 测试通过！
+17:35:34  [INFO ] : 测试通过！
+17:35:34  [INFO ] : 测试通过！
+17:42:22  [INFO ] : 测试通过！
+17:42:22  [INFO ] : 测试通过！
+17:42:22  [INFO ] : 测试通过！
+17:43:11  [INFO ] : 测试通过！
+17:43:11  [INFO ] : 测试通过！
+17:43:11  [ERROR] : 解析失败，请检查jsonPath表达式
+17:43:11  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:60) [bin/:?]
+17:45:33  [INFO ] : 测试通过！
+17:45:33  [INFO ] : 测试通过！
+17:45:33  [ERROR] : 解析失败，请检查jsonPath表达式
+17:45:33  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:61) [bin/:?]
+17:46:52  [INFO ] : 测试通过！
+17:46:52  [INFO ] : 测试通过！
+17:46:52  [ERROR] : 解析失败，请检查jsonPath表达式
+17:46:52  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:61) [bin/:?]
+17:50:11  [INFO ] : 测试通过！
+17:50:11  [INFO ] : 测试通过！
+17:50:11  [ERROR] : 解析失败，请检查jsonPath表达式
+17:50:11  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:61) [bin/:?]
+11:27:14  [INFO ] : 测试通过！
+11:27:14  [INFO ] : 测试通过！
+11:27:14  [ERROR] : 解析失败，请检查jsonPath表达式
+11:27:14  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:61) [bin/:?]
+09:59:39  [INFO ] : 测试通过！
+09:59:39  [INFO ] : 测试通过！
+09:59:39  [ERROR] : 解析失败，请检查jsonPath表达式
+09:59:39  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:61) [bin/:?]
+10:12:49  [INFO ] : 测试通过！
+10:12:49  [INFO ] : 测试通过！
+10:12:49  [ERROR] : 解析失败，请检查jsonPath表达式
+10:12:49  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:61) [bin/:?]
+10:12:49  [INFO ] : 测试失败！
+10:13:55  [INFO ] : 测试通过！
+10:13:56  [INFO ] : 测试通过！
+10:13:56  [ERROR] : 解析失败，请检查jsonPath表达式
+10:13:56  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:61) [bin/:?]
+10:13:56  [INFO ] : 测试通过！
+10:24:34  [INFO ] : 测试通过！
+10:24:35  [INFO ] : 测试通过！
+10:24:35  [INFO ] : 测试通过！
+10:24:35  [INFO ] : 测试通过！
+10:29:03  [INFO ] : 测试通过！
+10:29:03  [INFO ] : 测试通过！
+10:29:03  [INFO ] : 测试通过！
+10:29:03  [INFO ] : 测试通过！
+10:33:02  [INFO ] : 测试通过！
+10:33:02  [INFO ] : 测试通过！
+10:33:02  [INFO ] : 测试通过！
+10:33:02  [INFO ] : 测试通过！
+10:33:29  [INFO ] : 测试通过！
+10:33:29  [INFO ] : 测试通过！
+10:33:29  [INFO ] : 测试通过！
+10:33:30  [INFO ] : 测试通过！
+10:36:03  [INFO ] : 测试通过！
+10:36:03  [INFO ] : 测试通过！
+10:36:03  [INFO ] : 测试通过！
+10:36:03  [INFO ] : 测试通过！
+10:40:38  [INFO ] : 测试通过！
+10:40:39  [INFO ] : 测试通过！
+10:40:39  [INFO ] : 测试通过！
+10:40:39  [ERROR] : 解析失败，请检查jsonPath表达式
+10:40:39  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:61) [bin/:?]
+10:41:52  [INFO ] : 测试通过！
+10:41:52  [INFO ] : 测试通过！
+10:41:52  [INFO ] : 测试通过！
+10:41:52  [ERROR] : 解析失败，请检查jsonPath表达式
+10:41:52  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+	at com.fwlbs.mydlinter.KeywordOfInter.assertSame(KeywordOfInter.java:157) [bin/:?]
+	at com.fwlbs.mydlinterTest.SkdsjExcelTest.main(SkdsjExcelTest.java:61) [bin/:?]
+13:09:08  [ERROR] : 解析失败，请检查jsonPath表达式
+13:09:08  [ERROR] : java.lang.IllegalArgumentException: json string can not be null or empty
+java.lang.IllegalArgumentException: json string can not be null or empty
+	at com.fwlbs.mydlinter.DataDrivenOfInter.assertSame(DataDrivenOfInter.java:198) [bin/:?]
+	at com.fwlbs.mydlinterTest.testInterWithExcel.main(testInterWithExcel.java:69) [bin/:?]
+13:11:46  [ERROR] : 解析失败，请检查jsonPath表达式
+13:11:46  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['用户名或密码错误，请重新输入']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['用户名或密码错误，请重新输入']
+	at com.fwlbs.mydlinter.DataDrivenOfInter.assertSame(DataDrivenOfInter.java:198) [bin/:?]
+	at com.fwlbs.mydlinterTest.testInterWithExcel.main(testInterWithExcel.java:69) [bin/:?]
+13:55:34  [INFO ] : 测试通过！
+14:02:56  [INFO ] : 测试通过！
+14:02:56  [INFO ] : 测试通过！
+14:02:57  [INFO ] : 测试通过！
+14:02:57  [INFO ] : 测试通过！
+14:26:39  [INFO ] : 测试通过！
+14:26:39  [INFO ] : 测试通过！
+14:26:40  [INFO ] : 测试通过！
+14:26:40  [INFO ] : 测试通过！
+14:27:08  [INFO ] : 测试通过！
+14:27:08  [INFO ] : 测试通过！
+14:27:08  [INFO ] : 测试通过！
+14:27:08  [INFO ] : 测试通过！
+14:37:44  [INFO ] : 测试通过！
+14:37:44  [INFO ] : 测试通过！
+14:37:44  [INFO ] : 测试通过！
+14:37:44  [INFO ] : 测试通过！
+14:37:44  [INFO ] : 测试通过！
+14:37:44  [INFO ] : 测试通过！
+14:48:04  [INFO ] : 测试通过！
+14:48:04  [INFO ] : 测试通过！
+14:48:04  [INFO ] : 测试通过！
+14:48:04  [INFO ] : 测试通过！
+14:48:33  [INFO ] : 测试通过！
+14:48:34  [INFO ] : 测试通过！
+14:48:34  [INFO ] : 测试通过！
+14:48:34  [INFO ] : 测试通过！
+14:50:45  [INFO ] : 测试通过！
+14:50:45  [INFO ] : 测试通过！
+14:50:45  [INFO ] : 测试通过！
+14:50:45  [INFO ] : 测试通过！
+15:05:16  [INFO ] : 测试通过！
+15:05:16  [INFO ] : 测试通过！
+15:05:16  [INFO ] : 测试通过！
+15:05:16  [ERROR] : 解析失败，请检查jsonPath表达式
+15:05:16  [ERROR] : com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+com.jayway.jsonpath.PathNotFoundException: No results for path: $['msg']
+	at com.fwlbs.mydlinter.DataDrivenOfInter.assertSame(DataDrivenOfInter.java:215) [bin/:?]
+	at com.fwlbs.mydlinterTest.testInterWithExcel.main(testInterWithExcel.java:76) [bin/:?]
